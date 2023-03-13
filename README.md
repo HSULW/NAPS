@@ -7,5 +7,5 @@
 
 ## Unity Script
 
-[選擇照片]
+[選擇照片](https://github.com/HSULW/NAPS/blob/main/PuzzleManger.cs)
 可從裝置中選擇照片丟入UNITY場景中
