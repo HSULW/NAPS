@@ -22,7 +22,7 @@ public class PuzzleManger : MonoBehaviour
     {
         LoadTexture();
     }
-
+    
     void LoadTexture()
     {
         OpenFileDialog openFileDialog = new OpenFileDialog();
