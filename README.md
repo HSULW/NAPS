@@ -9,4 +9,4 @@
 
 [選擇照片](https://github.com/HSULW/NAPS/blob/main/PuzzleManger.cs)
 可從裝置中選擇照片丟入UNITY場景中，並調整成給定比例的大小。\
-[判斷每片拼圖位置](https://github.com/HSULW/NAPS/blob/main/Pintu.cs)\
+[判斷每片拼圖位置](https://github.com/HSULW/NAPS/blob/main/Pintu.cs)
